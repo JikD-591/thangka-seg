@@ -1,0 +1,1 @@
+# thangka-seg
