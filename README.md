@@ -4,7 +4,7 @@ This is the official code repository for the paper "Research on the Semantic Seg
 ## 📌 Data & Model Weights Availability
 The minimal anonymized dataset and pre-trained model weights required to replicate the study findings are openly available in Zenodo:
 **DOI: 10.5281/zenodo.19498530**
-https://zenodo.org/doi/10.5281/zenodo.19496600
+[https://zenodo.org/records/19498530]
 
 ## 🛠️ Environment
 - Python 3.8+
